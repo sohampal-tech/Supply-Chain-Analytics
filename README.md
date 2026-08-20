@@ -23,11 +23,5 @@ web application-https://supply-chain-analytics-qm9ameskz9ygpsdthqipsx.streamlit.
 3.  **Average Delivery Delay (Days):** Mean difference between actual shipping duration and scheduled duration (`Delay Gap`).
 4.  **Shipping Mode Efficiency Index:** Comparative SLA compliance across logistics transport tiers.
 
----
 
-## ⚙️ Installation & Running the Application
 
-### 1. Install Dependencies
-Ensure Python is installed, then run the following command to install required packages:
-```bash
-pip install streamlit pandas numpy matplotlib seaborn
