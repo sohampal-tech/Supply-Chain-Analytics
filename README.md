@@ -1,4 +1,4 @@
-# APL Logistics: Delivery Performance, Delay Risk, and Logistics Efficiency Analysis
+# Delivery Performance, Delay Risk, and Logistics Efficiency Analysis
 
 web application-https://supply-chain-analytics-qm9ameskz9ygpsdthqipsx.streamlit.app
 ---
