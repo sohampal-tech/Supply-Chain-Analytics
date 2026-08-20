@@ -12,10 +12,8 @@ web application-https://supply-chain-analytics-qm9ameskz9ygpsdthqipsx.streamlit.
 ---
 
 ## 🛠️ Repository Structure
-*   `APL_Logistics (1).csv`: The primary operational dataset containing 180,519 order and shipment records.
-*   `eda.py`: Exploratory Data Analysis script for data cleaning, feature engineering (`Delay_Gap`), and baseline KPI generation.
-*   `app_complete.py`: A production-ready Streamlit interactive web application with multi-dimensional filters and diagnostic visual scorecards.
-*   `app.py`: Core baseline Streamlit application script.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ae82b250-db0c-4dbc-850b-e25945f3a6c2" />
+
 
 ---
 
